@@ -4,13 +4,7 @@
 
 Este es el github de 'El Dataverso' una comunidad creada por dos consultores a quienes les encanta la tecnología y los datos, la idea de este repositorio es tener todos los archivos, códigos y ejemplos que utilizamos en nuestros videos de Youtube:
 
-<!---
-<iframe width="560" height="315"
-src="https://www.youtube.com/embed/MUQfKFzIOeU" 
-frameborder="0" 
-allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-allowfullscreen></iframe>
---->
+https://www.youtube.com/watch?v=uhyo1dUEkdc
 <br>
 
 **🚀Nuestras Redes Sociales**
