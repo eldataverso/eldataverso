@@ -16,8 +16,8 @@ https://www.youtube.com/watch?v=uhyo1dUEkdc
 
 <br>
 
-**👨‍🚀👨‍🚀Nosotros**
-[Jonathan Ruiz](https://www.linkedin.com/in/jonathan-ruiz-r/) y [Katherine Ferreira](https://www.linkedin.com/in/katherine-ferreira-puigmarti/)
+**👨‍🚀👨‍🚀👨‍🚀🚀Nosotros**
+[Jonathan Ruiz](https://www.linkedin.com/in/jonathan-ruiz-r/), [Katherine Ferreira](https://www.linkedin.com/in/katherine-ferreira-puigmarti/) y [Adrian Fernandez](https://www.linkedin.com/in/adrianfz/)
 
 
 <!---
